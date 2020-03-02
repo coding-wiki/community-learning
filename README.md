@@ -37,17 +37,17 @@ To link to an issue, please use `[#1](../../issues/1]`, substituting **1** for t
 
 ## Programming Languages
 
-    - Python
+### Python
 
-    - Ruby on Rails
+### Ruby on Rails
 
-    - Rust
+### Rust
 
-    - C++
+### C++
 
-    - Golang
+### Golang
 
-    - Node.js
+### Node.js
 
 ## Frameworks/standards
 
