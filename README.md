@@ -11,12 +11,12 @@ Please find a topic that you're interested in, then click through to the issue n
 
 ## Frameworks
 
-### React.js [#2](#2)
+### React.js [#2](../../issues/2)
   - React Native
 
     
 
-### Angular [#1](#1)
+### Angular [#1](../../issues/1)
 
 ### Vue.js
 
