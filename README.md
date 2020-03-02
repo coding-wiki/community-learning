@@ -9,23 +9,25 @@ Please find a topic that you're interested in, then click through to the issue n
 
 # Front-end
 
-- React.js
+## Frameworks
+
+### React.js [#2](#2)
   - React Native
 
     
 
-- Angular #issue-number (assign yourself)
+### Angular [#1](#1)
 
-- Vue.js
+### Vue.js
 
-- Ember.js
+### Ember.js
 
-- Handlebars
+### Handlebars
 
 # Backend
 
 
-# Programming Languages
+## Programming Languages
 
     - Python
 
@@ -39,11 +41,11 @@ Please find a topic that you're interested in, then click through to the issue n
 
     - Node.js
 
-# Frameworks/standards
+## Frameworks/standards
 
   - GraphQL
 
-# Database
+## Database
 
   - PostgreSQL
   - MariaDB / MySQL
@@ -53,13 +55,12 @@ Please find a topic that you're interested in, then click through to the issue n
 
 
 
-Devops
+# Devops
 
-- Bare metal
+## Bare metal
   - 
 
-
-- Virtual servers
+## Virtual servers
   - 
-- Cloud computing
+## Cloud computing
   - 
